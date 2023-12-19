@@ -19,7 +19,6 @@ const LOGIN=({variable})=>{
             </div>
             <div>
                 Je doit dire que {user.Name} est {user.Commentaire}.
-
             </div>
         </div>
     );
